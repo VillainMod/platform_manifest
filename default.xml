@@ -36,9 +36,7 @@
   <project path="device/moto/stingray" name="device/moto/stingray" />
   <project path="device/moto/wingray" name="device/moto/wingray" />
   <project path="device/sample" name="device/sample" />
-  <project path="device/samsung/crespo" name="device/samsung/crespo" />
   <project path="device/samsung/crespo4g" name="device/samsung/crespo4g" />
-  <project path="device/samsung/maguro" name="device/samsung/maguro" />
   <project path="device/samsung/toro" name="device/samsung/toro" />
   <project path="device/samsung/torospr" name="device/samsung/torospr" />
   <project path="device/samsung/tuna" name="device/samsung/tuna" />
@@ -273,6 +271,7 @@
 
   <project path="device/samsung/galaxys2" name="CyanogenMod/android_device_samsung_galaxys2" remote="gh" revision="ics" />
   <project path="device/samsung/maguro" name="CyanogenMod/android_device_samsung_maguro" remote="gh" revision="ics" />
+  <project path="device/samsung/crespo" name="CyanogenMod/android_device_samsung_crespo" remote="gh" revision="ics" />
   <project path="device/htc/pyramid" name="CyanogenMod/android_device_htc_pyramid" remote="gh" revision="ics" />
   <project path="device/htc/shooter" name="CyanogenMod/android_device_htc_shooter" remote="gh" revision="ics" />
   <project path="device/htc/shooteru" name="CyanogenMod/android_device_htc_shooteru" remote="gh" revision="ics" />
