@@ -9,7 +9,7 @@
            revision="ics" />
 
   <default revision="master"
-           remote="aosp"
+           remote="gh"
            sync-j="4" />
 
   <project path="build" name="platform/build">
