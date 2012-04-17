@@ -12,7 +12,7 @@
            remote="gh"
            sync-j="4" />
 
-  <project path="build" name="platform/build">
+  <project path="build" name="platform/build" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
