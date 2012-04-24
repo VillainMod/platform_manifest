@@ -184,8 +184,9 @@
 	<project path="hardware/libhardware" name="platform/hardware/libhardware" remote="aosp" />
 	<project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" remote="aosp" />
 	<project path="hardware/msm7k" name="platform/hardware/msm7k" remote="aosp" />
-	<project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" remote="aosp" />
-	<project path="hardware/qcom/media" name="platform/hardware/qcom/media" remote="aosp" />
+	<project path="hardware/qcom/gps" name="VillainMod/android_hardware_qcom_gps" remote="github" revision="ics" />
+	<project path="hardware/qcom/media" name="VillainMod/android_hardware_qcom_media" remote="github" revision="ics" />
+	<project path="hardware/qcom/display" name="VillainMod/android_hardware_qcom_display" remote="github" revision="ics" />
 	<project path="hardware/ril" name="platform/hardware/ril" remote="aosp" />
 	<project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" remote="aosp" />
 	<project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" remote="aosp" />
