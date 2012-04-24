@@ -181,7 +181,7 @@
 	<project path="frameworks/support" name="platform/frameworks/support" remote="aosp" />
 	<project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" remote="aosp" />
 	<project path="hardware/invensense" name="platform/hardware/invensense" remote="aosp" />
-	<project path="hardware/libhardware" name="platform/hardware/libhardware" remote="aosp" />
+	<project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" remote="gh" revision="ics"/>
 	<project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" remote="aosp" />
 	<project path="hardware/msm7k" name="platform/hardware/msm7k" remote="aosp" />
 	<project path="hardware/qcom/gps" name="VillainMod/android_hardware_qcom_gps" remote="github" revision="ics" />
