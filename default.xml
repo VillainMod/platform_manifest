@@ -12,7 +12,7 @@
 		remote="github"
 		sync-j="4" />
 
-	<project path="build" name="VillainMod/platform_build" remote="github" revision="ics" >
+	<project path="build" name="VillainMod/platform_build" remote="github" revision="master" >
 		<copyfile src="core/root.mk" dest="Makefile" />
 	</project>
 	<project path="abi/cpp" name="platform/abi/cpp" remote="aosp" />
@@ -199,7 +199,7 @@
 	<project path="packages/apps/Browser" name="platform/packages/apps/Browser" remote="aosp" />
 	<project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" remote="aosp" />
 	<project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" remote="aosp" />
-	<project path="packages/apps/Camera" name="platform/packages/apps/Camera" remote="aosp" />
+	<project path="packages/apps/Camera" name="VillainMod/platform_packages_apps_camera" remote="github" revision="ics"/>
 	<project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" remote="aosp" />
 	<project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" remote="aosp" />
 	<project path="packages/apps/Contacts" name="platform/packages/apps/Contacts" remote="aosp" />
