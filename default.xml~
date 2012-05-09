@@ -275,12 +275,4 @@
 	<project path="device/htc/shooteru" name="VillainMod/android_device_htc_shooteru" remote="github" revision="ics" />
 	<project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="github" revision="ics" />
 	<project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" remote="github" revision="ics" />
-	<project name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" path="vendor/tmobile/
-apps/ThemeChooser" revision="refs/heads/ics" remote="github" />
-	<project name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" path="vendor/tmobile/li
-bs/com.tmobile.themes" revision="refs/heads/ics" remote="github" />
-	<project name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" path="vendor/tmobile/pro
-viders/ThemeManager" revision="refs/heads/ics" remote="github" />
-	<project name="CyanogenMod/android_vendor_tmobile_products_themes" path="vendor/tmobile/products/t
-hemes" revision="refs/heads/ics" remote="github" />
 </manifest>
