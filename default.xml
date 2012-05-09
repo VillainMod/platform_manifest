@@ -275,8 +275,8 @@
 	<project path="device/htc/shooteru" name="VillainMod/android_device_htc_shooteru" remote="github" revision="ics" />
 	<project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="github" revision="ics" />
 	<project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" remote="github" revision="ics" />
-	<project name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" path="vendor/tmobile/apps/ThemeChooser" revision="refs/heads/ics" remote="github" />
-	<project name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" path="vendor/tmobile/libs/com.tmobile.themes" revision="refs/heads/ics" remote="github" />
-	<project name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" path="vendor/tmobile/providers/ThemeManager" revision="refs/heads/ics" remote="github" />
-	<project name="CyanogenMod/android_vendor_tmobile_products_themes" path="vendor/tmobile/products/themes" revision="refs/heads/ics" remote="github" />
+	<project name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" path="vendor/tmobile/apps/ThemeChooser" revision="ics" remote="github" />
+	<project name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" path="vendor/tmobile/libs/com.tmobile.themes" revision="ics" remote="github" />
+	<project name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" path="vendor/tmobile/providers/ThemeManager" revision="ics" remote="github" />
+	<project name="CyanogenMod/android_vendor_tmobile_products_themes" path="vendor/tmobile/products/themes" revision="ics" remote="github" />
 </manifest>
