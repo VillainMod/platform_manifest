@@ -230,7 +230,7 @@
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" remote="aosp" revision="jb-dev" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" remote="aosp" revision="jb-dev" />
   <project path="packages/apps/Contacts" name="platform/packages/apps/Contacts" remote="aosp" revision="jb-dev" />
-  <project path="packages/apps/DeskClock" name="platform/packages_apps_DeskClock" remote="aosp" revision="jb-dev" />
+  <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock" remote="aosp" revision="jb-dev" />
   <project path="packages/apps/Email" name="platform/packages/apps/Email" remote="aosp" revision="jb-dev" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" remote="aosp" revision="jb-dev" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" remote="aosp" revision="jb-dev" />
