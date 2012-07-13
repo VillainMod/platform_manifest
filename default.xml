@@ -248,7 +248,7 @@
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" remote="aosp" revision="jb-dev" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" remote="aosp" revision="jb-dev" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" remote="aosp" revision="jb-dev" />
-  <project path="packages/apps/Settings" name="platform/packages/apps/Settings" remote="aosp" revision="jb-dev" />
+  <project path="packages/apps/Settings" name="VillainMod/platform_packages_apps_settings" remote="gh" revision="jellybean" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" remote="aosp" revision="jb-dev" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" remote="aosp" revision="jb-dev" />
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" remote="aosp" revision="jb-dev" />
