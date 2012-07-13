@@ -186,7 +186,7 @@
   <project path="external/yaffs2" name="platform/external/yaffs2" remote="aosp" revision="jb-dev" />
   <project path="external/zlib" name="platform/external/zlib" remote="aosp" revision="jb-dev" />
   <project path="external/zxing" name="platform/external/zxing" remote="aosp" revision="jb-dev" />
-  <project path="frameworks/av" name="VillainMod/frameworks_av" remote="aosp" revision="jellybean" />
+  <project path="frameworks/av" name="VillainMod/frameworks_av" remote="gh" revision="jellybean" />
   <project path="frameworks/base" name="platform/frameworks/base" remote="aosp" revision="jb-dev" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" remote="aosp" revision="jb-dev" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" remote="aosp" revision="jb-dev" />
