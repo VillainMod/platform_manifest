@@ -310,7 +310,6 @@
   <project path="system/vold" name="platform/system/vold" remote="aosp" revision="jb-dev" />
   <project path="vendor/villainmod" name="VillainMod/vendor_villainmod" remote="gh" revision="jellybean" />
 
-  <project path="system/su" name="ChainsDD/su-binary" remote="gh" revision="master" />
   <project path="packages/apps/Superuser" name="ChainsDD/Superuser" remote="gh" revision="master" />
 
   <project path="platform_manifest" name="VillainMod/platform_manifest" remote="gh" revision="jellybean" />
