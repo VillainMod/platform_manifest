@@ -210,7 +210,7 @@
   <project path="hardware/invensense" name="platform/hardware/invensense" remote="aosp" revision="jb-dev" />
   <project path="hardware/libhardware" name="platform/hardware/libhardware" remote="aosp" revision="jb-dev" />
   <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" remote="aosp" revision="jb-dev" />
-  <project path="hardware/msm7k" name="platform/hardware/msm7k" remote="aosp" revision="jb-dev" />
+  <project path="hardware/msm7k" name="VillainMod/android_hardware_msm7k.git" remote="gh" revision="jellybean" />
   <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" remote="aosp" revision="jb-dev" />
   <project path="hardware/qcom/media" name="platform/hardware/qcom/media" remote="aosp" revision="jb-dev" />
   <project path="hardware/ril" name="platform/hardware/ril" remote="aosp" revision="jb-dev" />
