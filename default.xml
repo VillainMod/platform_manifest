@@ -15,7 +15,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" remote="aosp" revision="jb-dev" />
-  <project path="bionic" name="platform/bionic" remote="aosp" revision="jb-dev" />
+  <project path="bionic" name="VillainMod/android_bionic" remote="gh" revision="jellybean" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" remote="aosp" revision="jb-dev" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" remote="aosp" revision="jb-dev" />
   <project path="bootable/recovery" name="platform/bootable/recovery" remote="aosp" revision="jb-dev" />
