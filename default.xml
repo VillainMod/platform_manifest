@@ -305,7 +305,7 @@
   <project path="system/core" name="platform/system/core" remote="aosp" revision="jb-dev" />
   <project path="system/extras" name="platform/system/extras" remote="aosp" revision="jb-dev" />
   <project path="system/media" name="platform/system/media" remote="aosp" revision="jb-dev" />
-  <project path="system/netd" name="VillainMod/android_system_netd" remote="aosp" revision="jb-dev" />
+  <project path="system/netd" name="VillainMod/android_system_netd" remote="gh" revision="jellybean" />
   <project path="system/security" name="platform/system/security" remote="aosp" revision="jb-dev" />
   <project path="system/vold" name="platform/system/vold" remote="aosp" revision="jb-dev" />
   <project path="vendor/villainmod" name="VillainMod/vendor_villainmod" remote="gh" revision="jellybean" />
