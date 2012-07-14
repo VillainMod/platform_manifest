@@ -184,7 +184,7 @@
   <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" remote="aosp" revision="jb-dev" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" remote="aosp" revision="jb-dev" />
   <project path="external/yaffs2" name="platform/external/yaffs2" remote="aosp" revision="jb-dev" />
-  <project path="external/zlib" name="platform/external/zlib" remote="aosp" revision="jb-dev" />
+  <project path="external/zlib" name="VillainMod/android_external_zlib" remote="gh" revision="jellybean" />
   <project path="external/zxing" name="platform/external/zxing" remote="aosp" revision="jb-dev" />
   <project path="frameworks/av" name="VillainMod/frameworks_av" remote="gh" revision="jellybean" />
   <project path="frameworks/base" name="platform/frameworks/base" remote="aosp" revision="jb-dev" />
