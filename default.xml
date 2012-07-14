@@ -32,6 +32,7 @@
   <project path="device/moto/common" name="device/moto/common" remote="aosp" revision="jb-dev" />
   <project path="device/moto/stingray" name="device/moto/stingray" remote="aosp" revision="jb-dev" />
   <project path="device/moto/wingray" name="device/moto/wingray" remote="aosp" revision="jb-dev" />
+  <project path="device/samsung/n7000" name="VillainMod/android_device_samsung_n7000" remote="gh" revision="ics" />
   <project path="device/sample" name="device/sample" remote="aosp" revision="jb-dev" />
   <project path="device/samsung/crespo" name="device/samsung/crespo" remote="aosp" revision="jb-dev" />
   <project path="device/samsung/crespo4g" name="device/samsung/crespo4g" remote="aosp" revision="jb-dev" />
