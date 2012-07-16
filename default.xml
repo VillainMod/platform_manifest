@@ -223,7 +223,7 @@
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" remote="aosp" revision="jb-dev" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" remote="aosp" revision="jb-dev" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" remote="aosp" revision="jb-dev" />
-  <project path="kernel/samsung/smdk4210" name="VillainMod/android_kernel_samsung_smdk4210" remote="gh" revision="ics" />
+  <project path="kernel/samsung/smdk4210" name="VillainMod/android_kernel_samsung_smdk4210" remote="gh" revision="jellybean" />
   <project path="hardware/ti/wpan" name="platform/hardware/ti/wpan" remote="aosp" revision="jb-dev" />
   <project path="libcore" name="platform/libcore" remote="aosp" revision="jb-dev" />
   <project path="libnativehelper" name="platform/libnativehelper" remote="aosp" revision="jb-dev" />
