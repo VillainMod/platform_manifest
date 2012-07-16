@@ -215,6 +215,7 @@
   <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" remote="aosp" revision="jb-dev" />
   <project path="hardware/qcom/media" name="platform/hardware/qcom/media" remote="aosp" revision="jb-dev" />
   <project path="hardware/ril" name="platform/hardware/ril" remote="aosp" revision="jb-dev" />
+  <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" remote="gh" revision="jellybean" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" remote="aosp" revision="jb-dev" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" remote="aosp" revision="jb-dev" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" remote="aosp" revision="jb-dev" />
