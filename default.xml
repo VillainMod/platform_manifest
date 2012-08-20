@@ -213,8 +213,8 @@
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" remote="aosp" revision="jb-dev" />
   <project path="gdk" name="platform/gdk" remote="aosp" revision="jb-dev" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" remote="aosp" revision="jb-dev" />
-  <project path="hardware/invensense" name="platform/hardware/invensense" remote="aosp" revision="jb-dev" />
-  <project path="hardware/libhardware" name="platform/hardware/libhardware" remote="aosp" revision="jb-dev" />
+  <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" remote="gh" revision="jellybean" />
+  <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" remote="gh" revision="jellybean"  />
   <project path="hardware/libhardware_legacy" name="VillainMod/android_hardware_libhardware" remote="gh" revision="jellybean" />
   <project path="hardware/msm7k" name="VillainMod/android_hardware_msm7k" remote="gh" revision="jellybean" />
   <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" remote="aosp" revision="jb-dev" />
