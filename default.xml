@@ -34,7 +34,7 @@
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" remote="aosp" revision="jb-dev" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="jb-dev" />
   <project path="device/moto/common" name="device/moto/common" remote="aosp" revision="jb-dev" />
-  <project path="device/samsung/galaxys2-common" name="VillainMod/device/samsung/galaxys2-common" remote="gh" revision="jellybean"
+  <project path="device/samsung/galaxys2-common" name="VillainMod/device/samsung/galaxys2-common" remote="gh" revision="jellybean" />
   <project path="device/moto/stingray" name="device/moto/stingray" remote="aosp" revision="jb-dev" />
   <project path="device/moto/wingray" name="device/moto/wingray" remote="aosp" revision="jb-dev" />
   <project path="device/samsung/n7000" name="VillainMod/android_device_samsung_n7000" remote="gh" revision="jellybean" />
